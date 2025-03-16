@@ -5,8 +5,8 @@ const ProfilePage: React.FC = () => {
   return (
    <AuthenticatedLayout>
    <div className='container'>
-      <h2>Profile Page</h2>
-      <p>Some user profile details here...</p>
+      <h2>Welcome, to your Profile Page</h2>
+
     </div>
    </AuthenticatedLayout>
     

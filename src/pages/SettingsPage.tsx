@@ -6,7 +6,7 @@ const SettingsPage: React.FC = () => {
    <AuthenticatedLayout>
 <div className='container'>
       <h2>Admin Settings Page</h2>
-      <p>Only accessible by admin users</p>
+      <p>Only accessible by admin</p>
     </div>
    </AuthenticatedLayout>
     
