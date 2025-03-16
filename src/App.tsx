@@ -6,7 +6,7 @@ import DashboardPage from './pages/DashboardPage';
 import { AuthProvider } from './context/AuthContext';
 import ProtectedRoute from './components/ProtectedRoute';
 import SettingsPage from './pages/SettingsPage';
-import ProfilePage from './pages/profilePage';
+import ProfilePage from './pages/ProfilePage';
 
 
 const App: React.FC = () => {
